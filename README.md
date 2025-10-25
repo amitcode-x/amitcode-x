@@ -138,9 +138,7 @@
   GitHub Analytics & Achievements
 </h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-</div>
+
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitcode-x&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&custom_title=Amit's%20GitHub%20Stats" />
@@ -160,21 +158,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 </div>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitcode-x&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&margin-h=5" width="98%"/>
-</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+
 
 <!-- Contribution Graph -->
 <h2 align="center">
   📊 Contribution Activity
 </h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitcode-x&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&custom_title=Amit%20Chauhan's%20Contribution%20Graph" width="98%"/>
@@ -195,11 +188,13 @@
   🐍 Watch My Contributions Get Eaten!
 </h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitcode-x/amitcode-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitcode-x/amitcode-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitcode-x&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="98%"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
